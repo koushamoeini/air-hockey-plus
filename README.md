@@ -117,15 +117,6 @@ air-hockey-plus/
 └── README.md
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to:
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
 
 ## 📝 License
 
@@ -134,14 +125,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Kousha Moeini**
-
+- Email: koushamoeini@gmail.com
 - GitHub: [@koushamoeini](https://github.com/koushamoeini)
 
-## 🙏 Acknowledgments
-
-- Inspired by classic arcade air hockey games
-- Built as a learning project for Java Swing and game development
-
 ---
-
-**Enjoy the game!** ⚡🏒
